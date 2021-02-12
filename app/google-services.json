@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "245430624907",
+    "firebase_url": "https://share-places-b84c0-default-rtdb.firebaseio.com",
+    "project_id": "share-places-b84c0",
+    "storage_bucket": "share-places-b84c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245430624907:android:aa9ceacca121624f5daa8e",
+        "android_client_info": {
+          "package_name": "com.bladerco.buyandsellapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245430624907-tt03cte8fqra1mh0nai1pobbvde6vov6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bladerco.buyandsellapp",
+            "certificate_hash": "353af3e69da9c4cdc15c6a258a1474ab2d99a670"
+          }
+        },
+        {
+          "client_id": "245430624907-1rhh29m5ruaikmia5nkvd4kvi3au4ssl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlxt-w5f17Uicf1DbkWRUwrJ8NgOu7Chc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245430624907-1rhh29m5ruaikmia5nkvd4kvi3au4ssl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245430624907:android:8d51d5e6936d8a1b5daa8e",
+        "android_client_info": {
+          "package_name": "com.bladerco.firebasestuff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245430624907-ul96jq9i8cuoabrl0bt0839m49g9rhjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bladerco.firebasestuff",
+            "certificate_hash": "353af3e69da9c4cdc15c6a258a1474ab2d99a670"
+          }
+        },
+        {
+          "client_id": "245430624907-1rhh29m5ruaikmia5nkvd4kvi3au4ssl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlxt-w5f17Uicf1DbkWRUwrJ8NgOu7Chc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245430624907-1rhh29m5ruaikmia5nkvd4kvi3au4ssl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245430624907:android:b609d728f77994205daa8e",
+        "android_client_info": {
+          "package_name": "com.bladerco.shlacesfirebase_shareplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245430624907-s7d4s71fqrkc8fqr480033casu8kuk8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bladerco.shlacesfirebase_shareplaces",
+            "certificate_hash": "353af3e69da9c4cdc15c6a258a1474ab2d99a670"
+          }
+        },
+        {
+          "client_id": "245430624907-1rhh29m5ruaikmia5nkvd4kvi3au4ssl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlxt-w5f17Uicf1DbkWRUwrJ8NgOu7Chc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245430624907-1rhh29m5ruaikmia5nkvd4kvi3au4ssl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
